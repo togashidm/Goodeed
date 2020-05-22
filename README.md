@@ -6,8 +6,16 @@ The user can create their own motivational/inspirational quotes or paste their f
 
 
 ### Information Architecture
-
-### 4.	GUI - Java FX
 <pre><p align="center">
-<img src="/image1.png"  width="250" height="250">   <img src="/image2.png"  width="250" height="250">
+<img src="/IA.png">
+</p></pre>
+
+### Some of the Flow Diagrams
+<pre><p align="center">
+<img src="/FlowDiag.png">
+</p></pre>
+
+### Main Screens
+<pre><p align="center">
+<img src="/MainScreens.png">
 </p></pre>
