@@ -19,3 +19,6 @@ The user can create their own motivational/inspirational quotes or paste their f
 <pre><p align="center">
 <img src="/MainScreens.png">
 </p></pre>
+
+### Prototype (Figma)
+See prototype <a href="https://www.figma.com/proto/1hqdiQgbXJKgGFDZRfWBET/Goodeed?node-id=67%3A85&viewport=940%2C1970%2C0.8367552161216736&scaling=scale-down">here</a>.
