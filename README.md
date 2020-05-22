@@ -4,21 +4,24 @@ Goodeed is an App that I created for those that want to store and share good mom
 
 The user can create their own motivational/inspirational quotes or paste their favorites, store photos and also know which was the best post and action that keeps them motivated and may motivate others in the Goodeed community. This Goodeed App project is a small contribution to help improve and make our World, our only one, a better place for all of us. 
 
-
+***
 ### Information Architecture
 <pre><p align="center">
 <img src="/IA.png">
 </p></pre>
 
+***
 ### Some of the Flow Diagrams
 <pre><p align="center">
 <img src="/FlowDiag.png">
 </p></pre>
 
+***
 ### Main Screens
 <pre><p align="center">
 <img src="/MainScreens.png">
 </p></pre>
 
+***
 ### Prototype (Figma)
 See prototype <a href="https://www.figma.com/proto/1hqdiQgbXJKgGFDZRfWBET/Goodeed?node-id=67%3A85&viewport=940%2C1970%2C0.8367552161216736&scaling=scale-down">here</a>.
